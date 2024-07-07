@@ -1,6 +1,4 @@
 # Netflix Intro
-
-<h1>Netflix</h1>
 ツ
 
 <a href="https://www.instagram.com/kimberly.eliene/">Instagram</a>.
